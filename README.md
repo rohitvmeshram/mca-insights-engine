@@ -89,7 +89,7 @@ Download CSVs from data.gov.in, simulate snapshots, run scripts sequentially.
       ```bash
      streamlit run dashboard.py
       ```
-   - Access at [http://localhost:8501](http://localhost:8501).
+    - Access at [http://localhost:8501](http://localhost:8501).
  
  ## Architecture
  
